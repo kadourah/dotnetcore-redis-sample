@@ -1,0 +1,11 @@
+---
+applications:
+- name: dotnet-3-redis-example
+  memory: 768M
+  buildpacks:
+   - dotnet_core_buildpack
+  instances: 1
+  services: 
+   - redis-service
+  env:
+    SKIP_SSL_VALIDATION: "true"

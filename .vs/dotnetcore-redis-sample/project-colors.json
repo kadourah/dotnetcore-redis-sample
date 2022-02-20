@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3847d791-34ad-4cfc-92d7-9a1d3857ad5f": {
+      "ProjectGuid": "3847d791-34ad-4cfc-92d7-9a1d3857ad5f",
+      "DisplayName": "dotnetcore-redis-sample",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

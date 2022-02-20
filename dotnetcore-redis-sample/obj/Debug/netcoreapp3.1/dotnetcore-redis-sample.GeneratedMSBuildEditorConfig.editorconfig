@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = dotnetcore_redis_sample
+build_property.ProjectDir = C:\Projects\Source\Repos\kadourah\dotnetcore-redis-sample\dotnetcore-redis-sample\
